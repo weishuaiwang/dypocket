@@ -1,11 +1,11 @@
 {
-    "name": "ruoxiao-zh\/easydouyin",
+    "name": "pocket\/dypocket",
     "description": "douyin open platform sdk",
     "license": "MIT",
     "authors": [
         {
             "name": "ellison",
-            "email": "ruoxiaozh@163.com"
+            "email": "weishuaiwang@qq.com"
         }
     ],
     "require": {
